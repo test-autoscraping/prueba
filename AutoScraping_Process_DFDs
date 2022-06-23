@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T19:32:38.974Z" agent="5.0 (X11)" etag="aD3E9b9e9TjcRaQiohYG" version="20.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-23T20:34:35.128Z" agent="5.0 (X11)" etag="wOZILw_yQH-FjUISw3mP" version="20.0.3" type="github" pages="6">
   <diagram id="CAX5HZOzLJdnf1XPHq4d" name="AutoScraping DFD 0">
-    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1125" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QQQG-NepsEwSDYcSW8kn" name="DFD: 1. Análisis de cliente">
-    <mxGraphModel dx="1350" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,11 +392,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZDIfyoH6vuvaVnq5huGH-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1fNic8KtI7Jj-qAzcPxx-20">
-          <mxGeometry x="-0.1594" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1fNic8KtI7Jj-qAzcPxx-22" value="cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="520" width="120" height="60" as="geometry" />
         </mxCell>
@@ -492,8 +487,79 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="CkdqREb8Wtt262bARUkj" name="DFD 2: tecnica">
+    <mxGraphModel dx="931" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wOkSNKUlbMVt4DREkdpe-1" value="2.1 Asignacion de Recursos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-1" value="chequear backlog de programadores, tiempos de entrega, necesidades tecnicas, habilidades extras (ingles-relacion con client), servicios de terceros, manejo de servicios de terceros." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-7" value="Pull requests" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JQwwXxcuerrH4m14Qi32-2" target="JQwwXxcuerrH4m14Qi32-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="JQwwXxcuerrH4m14Qi32-2" target="JQwwXxcuerrH4m14Qi32-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-7" value="sample | feedback | consultas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4pORUH9y2ypHuLlnWbB-5">
+          <mxGeometry x="-0.2748" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-2" value="2.2 Desarrollo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-3" value="recursos" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="JQwwXxcuerrH4m14Qi32-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-10" value="aprobacion de PR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="JQwwXxcuerrH4m14Qi32-4" target="H4pORUH9y2ypHuLlnWbB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="JQwwXxcuerrH4m14Qi32-4" target="JQwwXxcuerrH4m14Qi32-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="480" />
+              <mxPoint x="460" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-13" value="correcciones" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4pORUH9y2ypHuLlnWbB-12">
+          <mxGeometry x="-0.321" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-4" value="2.3 QA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;comprension y validacion de req. validacion de estrategia.&lt;/div&gt;&lt;div&gt;desarrollar crawler, scraper y saver. Limpieza de datos. &lt;br&gt;&lt;/div&gt;entrega de sample" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-1" value="requerimientos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JQwwXxcuerrH4m14Qi32-8" target="wOkSNKUlbMVt4DREkdpe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQwwXxcuerrH4m14Qi32-8" value="1. Analisis de cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-8" value="verificacion de buenas practicas de codigo, analiza eficiencia de los crawlers, establece requerimientos de hardware y servicios necesarios para implementar el codigo. verificacion de datos si es necesario. " style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="460" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-9" value="2.4 Deployment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H4pORUH9y2ypHuLlnWbB-15" value="&lt;div&gt;Asigna recursos de hardware. Implementa el codigo (CI|CD). &lt;br&gt;&lt;/div&gt;&lt;div&gt;realiza testing complementario.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="u6Deofv2nfPPU5m-X208" name="draft proceso de software factory">
-    <mxGraphModel dx="1688" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="geBK5xxm4LJIZ4f7tGu2" name="draft process ">
-    <mxGraphModel dx="1350" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1096,7 +1162,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aaoWIIw1MMfeQDlc9xZG" name="draft software factory">
-    <mxGraphModel dx="1688" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
