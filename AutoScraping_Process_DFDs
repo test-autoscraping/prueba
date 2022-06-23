@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T20:37:29.164Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KHQ38nnJ7cBej78Dpo6V" version="20.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-23T19:32:38.974Z" agent="5.0 (X11)" etag="aD3E9b9e9TjcRaQiohYG" version="20.0.3" type="github" pages="5">
   <diagram id="CAX5HZOzLJdnf1XPHq4d" name="AutoScraping DFD 0">
-    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,15 +268,6 @@
         </mxCell>
         <mxCell id="BvgCUfWnfAsIdNeTW_1t-1" value="0. Marketing" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Tbqm4UdwWxCYuV9rm2pq-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="320" as="sourcePoint" />
-            <mxPoint x="50" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="40" y="230" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
