@@ -1,66 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T15:25:48.172Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cHAsyDrBXx5gJ38BhJm_" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-06T15:38:36.521Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IC97Eg3TASgC8-wHRfLM" version="20.2.2" type="github">
   <diagram id="yg1lTFjttNk3QxgEq-F_" name="Página-1">
-    <mxGraphModel dx="2747" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3384" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Upu3P09HClMCdkKiZmb3-1" value="Presupuestacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-2" value="Invoice" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-4" value="nombre de cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-5" value="fecha(automatico)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-6" value="numero de presupuesto(automatico)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-7" value="precio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-8" value="numero de cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-9" target="Upu3P09HClMCdkKiZmb3-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-9" target="Upu3P09HClMCdkKiZmb3-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-9" value="clientes" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-110" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-12" target="Upu3P09HClMCdkKiZmb3-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-12" target="Upu3P09HClMCdkKiZmb3-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-12" value="analsis website" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-110" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-16" value="descripcion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="10" as="sourcePoint" />
-            <mxPoint x="570" y="10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-20" value="acepta el presupuesto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="410" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-22" value="desarrollo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Upu3P09HClMCdkKiZmb3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-23" target="Upu3P09HClMCdkKiZmb3-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -143,14 +86,43 @@
         <mxCell id="Upu3P09HClMCdkKiZmb3-41" value="desarrollo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="900" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-43" target="Upu3P09HClMCdkKiZmb3-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Upu3P09HClMCdkKiZmb3-43" value="testing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Upu3P09HClMCdkKiZmb3-45" value="Invoice" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="1120" width="840" height="260" as="geometry" />
+          <mxGeometry x="-790" y="1300" width="580" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
-          <mxGeometry x="70" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="Upu3P09HClMCdkKiZmb3-46" value="numero de invoice(automatico)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-58" value="nombre de cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="60" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-59" value="fecha(automatico)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-60" value="numero de presupuesto(automatico)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-61" value="precio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-62" value="numero de cliente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="200" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-63" value="descripcion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Upu3P09HClMCdkKiZmb3-45">
+          <mxGeometry x="340" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-48" value="entrega" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
