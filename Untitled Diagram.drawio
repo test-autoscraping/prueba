@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T15:45:06.788Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RJ9wUDHBsE7zuX81Ao5H" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T19:12:33.242Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TqrJOkQZDSJrPlCmRm6c" version="20.2.2" type="github">
   <diagram id="yg1lTFjttNk3QxgEq-F_" name="Página-1">
-    <mxGraphModel dx="3137" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3519" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,11 +127,58 @@
         <mxCell id="Upu3P09HClMCdkKiZmb3-66" value="top tracker" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1440" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Upu3P09HClMCdkKiZmb3-67" value="columnas de toptrracler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1600" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Upu3P09HClMCdkKiZmb3-68" value="como se muestran los datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1510" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1360" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-69" value="actividad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1634" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-70" value="project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-71" value="workers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-72" value="duration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1600" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-73" value="duration seconds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-74" value="keyboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-75" value="mouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-76" value="screenshots" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-80" target="Upu3P09HClMCdkKiZmb3-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-80" value="transformar a HS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1654" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-81" target="Upu3P09HClMCdkKiZmb3-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-81" value="cantidad de horas en un proyecto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1654" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-82" value="determinacion de costo por hora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1654" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Upu3P09HClMCdkKiZmb3-88" target="Upu3P09HClMCdkKiZmb3-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Upu3P09HClMCdkKiZmb3-88" value="ingreso por cliente/proyecto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="1060" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
