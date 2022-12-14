@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T19:33:00.476Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.3.3" etag="aa3xNn3vhPC41YzOMx9w" type="github"><diagram id="KC73psMbwWerRwyHicTl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-14T16:13:44.976Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="Y-xlmyBYypWQ9kDezvms" type="github">
+  <diagram id="h-Uzjyx9aiDMXFMbHH1c" name="Página-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-1" value="Recurrentes" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-2" value="&lt;ul&gt;&lt;li&gt;Massanuten&lt;/li&gt;&lt;li&gt;Christian Bouffard&lt;/li&gt;&lt;li&gt;Nathan Picarsic&lt;/li&gt;&lt;li&gt;Dan Black&lt;/li&gt;&lt;li&gt;Fernando-Realestate&lt;/li&gt;&lt;li&gt;Jordan&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ti_FvRGkcxW3kPCKKKin-1">
+          <mxGeometry x="20" y="50" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-3" value="Outsourcing" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="40" width="236" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-4" value="&lt;ul&gt;&lt;li&gt;Sunbiz&lt;/li&gt;&lt;li&gt;Zosimo&lt;/li&gt;&lt;li&gt;Oliver(fixed)&lt;/li&gt;&lt;li&gt;Content Hound&lt;/li&gt;&lt;li&gt;Panadata(fixed)&lt;/li&gt;&lt;li&gt;TPA Stream&lt;/li&gt;&lt;li&gt;Torrance-Max&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ti_FvRGkcxW3kPCKKKin-3">
+          <mxGeometry x="16" y="40" width="194" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-5" value="Data factory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-6" value="Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
