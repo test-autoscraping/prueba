@@ -1,9 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T16:13:44.976Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="Y-xlmyBYypWQ9kDezvms" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T19:00:36.209Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.2" etag="vsTm4bKFCfrfo5zxV9EG" type="github">
   <diagram id="h-Uzjyx9aiDMXFMbHH1c" name="Página-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ti_FvRGkcxW3kPCKKKin-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ti_FvRGkcxW3kPCKKKin-1" value="Recurrentes" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="260" height="210" as="geometry" />
         </mxCell>
@@ -17,10 +22,61 @@
           <mxGeometry x="16" y="40" width="194" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ti_FvRGkcxW3kPCKKKin-5" value="Data factory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ti_FvRGkcxW3kPCKKKin-6" value="Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-8" value="¿que recursos se necesitan para mantenerlos?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-9" value="&lt;ul&gt;&lt;li&gt;Documentacion de los crawlers&lt;/li&gt;&lt;li&gt;Lectura de logs y reporte de errores&lt;/li&gt;&lt;li&gt;Un Dev JR para correcion de errores&lt;/li&gt;&lt;li&gt;Documentacion de los errores comunes y soluciones&amp;nbsp;&lt;/li&gt;&lt;li&gt;Proxies, servidores que sean solamente de uso de los clientes recurrentes&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="300" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-11" value="¿Que recursos son necesarios?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="105" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-12" value="¿Que recursos son necesarios?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="115" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-13" value="&lt;ul&gt;&lt;li&gt;Manual para la elaboracion de crawlers&lt;/li&gt;&lt;li&gt;Tecnicas y estrategias de crawling&lt;/li&gt;&lt;li&gt;Analistas JR para la presupuestacion&lt;/li&gt;&lt;li&gt;Dev JR para realizar el desarrollo luego de la presupuestacion&lt;/li&gt;&lt;li&gt;DevOps para la implementacion&lt;/li&gt;&lt;li&gt;Dev SR para lidedar el proyecto&lt;/li&gt;&lt;li&gt;Un PM para darle seguimiento al proyecto.&lt;/li&gt;&lt;li&gt;Proxies, servidores que sean de un solo uso y se desechen.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="175" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-14" value="&lt;ul&gt;&lt;li&gt;Documentacion del codigo, funciones basicas&lt;/li&gt;&lt;li&gt;Devops para implementacion de crawlers&lt;/li&gt;&lt;li&gt;Dev JR para modificaciones de crawlers de ser necesarios&lt;/li&gt;&lt;li&gt;Web dev para mejorar o optimizar o mantener el codigo&lt;/li&gt;&lt;li&gt;Servicios de proxie y&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="140" width="340" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-16" value="&lt;ul&gt;&lt;li&gt;Pablo&lt;/li&gt;&lt;li&gt;Yamil&lt;/li&gt;&lt;li&gt;Ricky&lt;/li&gt;&lt;li&gt;Joel&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="305" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-17" value="Elias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-18" value="Full time" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="267.5" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-19" value="Part time" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="430" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-20" value="&lt;ul&gt;&lt;li&gt;Daniel&lt;/li&gt;&lt;li&gt;Mati&lt;/li&gt;&lt;li&gt;Seba&lt;/li&gt;&lt;li&gt;Carlos&lt;/li&gt;&lt;li&gt;Mauro&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ti_FvRGkcxW3kPCKKKin-19">
+          <mxGeometry x="17" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-21" value="Full time" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="340" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-24" value="Andres" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ti_FvRGkcxW3kPCKKKin-21">
+          <mxGeometry x="20" y="57.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-28" value="Part time" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="490" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-29" value="&lt;ul&gt;&lt;li&gt;Daniel&lt;/li&gt;&lt;li&gt;Mati&lt;/li&gt;&lt;li&gt;Seba&lt;/li&gt;&lt;li&gt;Carlos&lt;/li&gt;&lt;li&gt;Mauro&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ti_FvRGkcxW3kPCKKKin-28">
+          <mxGeometry x="17" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-30" value="Mauro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ti_FvRGkcxW3kPCKKKin-31" value="Elias" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="375" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
