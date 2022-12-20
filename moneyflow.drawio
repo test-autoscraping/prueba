@@ -1,1 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2022-12-20T14:56:07.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" version="20.7.4" etag="SRiPMHv2eu8ciiF2UrYv" type="github"><diagram id="ANhIbkdMoXRiTM1-Lm0c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-20T15:40:13.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" version="20.7.4" etag="C1OWyYhP2CQBsVXkfrfe" type="github">
+  <diagram id="WY6eLPj0wJiWYhOSjMlj" name="Página-1">
+    <mxGraphModel dx="1195" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="500" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-1" target="Bsk7Vog6S74ePI7YdXme-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-1" value="Upwork" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-2" target="Bsk7Vog6S74ePI7YdXme-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-2" value="Stripe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.707;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-3" target="Bsk7Vog6S74ePI7YdXme-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-3" value="Wire/ACH transfer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-6" target="Bsk7Vog6S74ePI7YdXme-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-6" value="SVB" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="165" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-13" value="USDT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-10" target="Bsk7Vog6S74ePI7YdXme-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-10" value="Kraken" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="165" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-12" target="Bsk7Vog6S74ePI7YdXme-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-26" value="USDT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Bsk7Vog6S74ePI7YdXme-25">
+          <mxGeometry x="0.5143" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-12" value="Wallet cada persona (14)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-27" value="USDT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-18" target="Bsk7Vog6S74ePI7YdXme-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-18" value="Wallet Binance Fran" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-34" value="Usd fisicos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-20" target="Bsk7Vog6S74ePI7YdXme-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-20" value="Caja USD físicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-21" value="Por cada persona es una tx de 2.5 USD. Ver de nuclear todos los pagos a una sola Wallet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="500" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-33" value="USD físicos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="Bsk7Vog6S74ePI7YdXme-24" target="Bsk7Vog6S74ePI7YdXme-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-24" value="Financiera/cueva" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="165" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-29" value="Empleado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-31" value="USA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bsk7Vog6S74ePI7YdXme-32" value="Ver de reemplezarWalletBinanceporun&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="590" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
